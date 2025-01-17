@@ -37,7 +37,7 @@ A powerful desktop application for comparing Git repositories and visualizing di
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/git-compare.git
+git clone https://github.com/coldfire-x/git-compare
 cd git-compare
 ```
 
@@ -96,13 +96,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Screenshots
 
 ### Repository Selection
-![Repository Selection](./docs/images/repo-selection.png)
+![Repository Selection](./docs/images/choose_repo.png)
 
 ### Diff View
 ![Diff View](./docs/images/diff-view.png)
-
-### Branch Comparison
-![Branch Comparison](./docs/images/branch-comparison.png)
+![Diff Detail](./docs/images/diff-detail.png)
 
 ## Buy me a coffee
 
